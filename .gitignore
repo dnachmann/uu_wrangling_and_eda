@@ -1,0 +1,6 @@
+data.zip
+data/*
+.venv
+.proj
+lab_1/uva_analysis_results.txt
+work.py
